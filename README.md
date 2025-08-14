@@ -29,6 +29,7 @@ Gold Layer:
 - GOLD_FACT.ipynb
 
 Other files:
+- screenshots folder
 - `README.md` — Project overview
 
 
