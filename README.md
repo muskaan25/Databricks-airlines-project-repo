@@ -55,7 +55,7 @@ Other files:
 ## Screenshots
 
 **Bronze Layer: Bronze Ingestion Job**  
-![Bronze Ingestion Job](screenshots/bronze_job.png)  
+![Bronze Ingestion Job](screenshots/Bronze_job.png)  
 
 **Silver Layer: Silver DLT Pipeline**  
 ![Silver DLT Pipeline](screenshots/silver_pipeline.png)  
